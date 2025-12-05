@@ -1,10 +1,10 @@
 {
   "name": "Inconsolata Mono",
-  "version": "1.0",
+  "version": "3.000",
   "fonts": [
     {
       "name": "Inconsolata Mono Regular",
-      "url": "URL",
+      "url": "https://raw.githubusercontent.com/Mae-nomen/Inconsolata-json/main/InconsolataNerdFontMono-Regular.ttf",
       "weight": 400,
       "style": "normal"
     }
