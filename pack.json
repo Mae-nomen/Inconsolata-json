@@ -1,12 +1,12 @@
 {
   "spec": 1,
-  "name": "Inconsolata Nerd Font Mono",
+  "name": "Inconsolata Nerd Font Mono (pack)",
   "author": "Mae-nomen",
-  "version": "1.0",
+  "version": "3.000",
   "fonts": [
     {
       "name": "Inconsolata Nerd Font Mono Regular",
-      "url": "https://raw.githubusercontent.com/Mae-nomen/Inconsolata-json/main/InconsolataNerdFontMono-Regular.ttf",
+      "main": "https://raw.githubusercontent.com/Mae-nomen/Inconsolata-json/main/InconsolataNerdFontMono-Regular.ttf",
       "weight": 400,
       "style": "normal"
     }
